@@ -127,13 +127,13 @@ final class Comment: Model,Content{
 ```
 ----
 # **Usage**
-######To use this API, you will need to have Vapor installed. If you don't have Vapor installed, you can follow the installation guide link [Here](https://docs.vapor.codes/install/macos/).
+###### To use this API, you will need to have Vapor installed. If you don't have Vapor installed, you can follow the installation guide link [Here](https://docs.vapor.codes/install/macos/).
 
 ###### Once you have Vapor installed, you can clone the repository by running the following command in your terminal:
 ```
 git clone https://github.com/judealatawi/API.git
 ```
-######Next, navigate to the cloned repository and run the following command to build and start the API server:
+###### Next, navigate to the cloned repository and run the following command to build and start the API server:
 ```
 vapor run
 ```
