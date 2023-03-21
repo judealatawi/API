@@ -6,7 +6,7 @@ This is an Vapor API that allows users to share photos and comments anonymously.
 
 1- Create:  Create a new photo.
 
-2- Read: Retrieve all photos and assosiated comments or retrieve a specific photo by ID.
+2- Read: Retrieve all photos and associated comments or retrieve a specific photo by ID.
 
 3- Update: Update an existing photo.
 
@@ -45,7 +45,7 @@ PUT /photos
 
 1- Create:  Create a new comment.
 
-2- Read: Retrieve all comments and assosiated photo or retrieve a specific comment by ID.
+2- Read: Retrieve all comments and associated photo or retrieve a specific comment by ID.
 
 3- Update: Update an existing comment.
 
