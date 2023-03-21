@@ -139,11 +139,3 @@ vapor run
 ```
     
 ###### This will start the API server, and you can then access the endpoints via a client such as Postman or cURL.
-
-----
-# **Contribution**
-[Jude Alatawi](https://github.com/judealatawi)
-
-[Hajar Nashi]()
-
-[Sumaya Alturki]()
