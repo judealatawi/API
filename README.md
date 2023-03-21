@@ -3,9 +3,13 @@ This is an Vapor API that allows users to share photos and comments anonymously.
 
 # **Endpoints**
 ## Photo Endpoints
+
 1- Create:  Create a new photo.
+
 2- Read: Retrieve all photos and assosiated comments or retrieve a specific photo by ID.
+
 3- Update: Update an existing photo.
+
 4- Delete:  Delete a photo by ID.
 
 - Create a new photo
