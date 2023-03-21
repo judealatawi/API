@@ -12,6 +12,7 @@ This is an Vapor API that allows users to share photos and comments anonymously.
 
 4- Delete:  Delete a photo by ID.
 
+
 - Create a new photo
 
 ```
@@ -43,9 +44,13 @@ PUT /photos
 ## Comment **Endpoints**
 
 1- Create:  Create a new comment.
+
 2- Read: Retrieve all comments and assosiated photo or retrieve a specific comment by ID.
+
 3- Update: Update an existing comment.
+
 4- Delete:  Delete a comment by ID.
+
 
 - Create a new comment
 
@@ -76,7 +81,7 @@ PUT /comments
  ```
 ----
 # **Models**
-######The API has two models: Photo and Comment.
+The API has two models: Photo and Comment.
 
 
 ## Photo Model
