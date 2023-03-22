@@ -142,5 +142,7 @@ vapor run
 
 # **Team**
 [Jude Alatawi](https://github.com/judealatawi)
+
 [Sumaya Alturki](https://github.com/sumayaalturki)
+
 [Hajar Nashi](https://github.com/HajarNashi)
